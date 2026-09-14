@@ -46,14 +46,14 @@
     <tr>
       <td align="center">
         <a href="https://learn.microsoft.com/en-gb/users/wouterdelange-9785/credentials/ea069dd4489b9291">
-          <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="80" alt="AZ-900" title="Microsoft Certified: Azure Fundamentals (AZ-900)" />
+          <img src="https://raw.githubusercontent.com/MrTieGuy06/MrTieGuy06/refs/heads/main/etc/microsoft-certified-fundamentals-badge.svg" height="80" alt="AZ-900" title="Microsoft Certified: Azure Fundamentals (AZ-900)" />
         </a>
       </td>
       <td align="center">
-        <img src="https://images.seeklogo.com/logo-png/18/2/afas-logo-png_seeklogo-188013.png" height="80" alt="AFAS" title="AFAS Software InSite Administration Beginners’ Course" />
+        <img src="https://github.com/MrTieGuy06/MrTieGuy06/blob/main/etc/afas-software.png?raw=true" height="80" alt="AFAS" title="AFAS Software InSite Administration Beginners’ Course" />
       </td>
       <td align="center">
-        <img src="https://images.seeklogo.com/logo-png/18/2/afas-logo-png_seeklogo-188013.png" height="80" alt="AFAS" title="AFAS Software Workflow Administration Beginners’ Course" />
+        <img src="https://github.com/MrTieGuy06/MrTieGuy06/blob/main/etc/afas-software.png?raw=true" height="80" alt="AFAS" title="AFAS Software Workflow Administration Beginners’ Course" />
       </td>
     </tr>
     <tr>
