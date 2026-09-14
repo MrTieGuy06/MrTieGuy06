@@ -16,6 +16,7 @@
 <h3 align="center">Frameworks & Platforms</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-%2358C4DC.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Magento-%23EE672F.svg?&style=for-the-badge&logo=adobe&logoColor=white" />&nbsp;&nbsp;
