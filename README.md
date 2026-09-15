@@ -39,24 +39,36 @@
 </p>
 
 
-<h2>Certifications</h2>
+<h2>Diplomas and certificates</h2>
 
 <p align="center">
   <table align="center">
     <tr>
+      <td align="center">
+        <a href="#">
+          <img width="80" height="80" alt="image" src="https://raw.githubusercontent.com/MrTieGuy06/MrTieGuy06/refs/heads/main/etc/degree.svg" alt="Game Development Diploma" title="VET - Application- and Media developer (Game Development)" />
+        </a>
+      </td>
       <td align="center">
         <a href="https://learn.microsoft.com/en-gb/users/wouterdelange-9785/credentials/ea069dd4489b9291">
           <img src="https://raw.githubusercontent.com/MrTieGuy06/MrTieGuy06/refs/heads/main/etc/microsoft-certified-fundamentals-badge.svg" height="80" alt="AZ-900" title="Microsoft Certified: Azure Fundamentals (AZ-900)" />
         </a>
       </td>
       <td align="center">
-        <img src="https://github.com/MrTieGuy06/MrTieGuy06/blob/main/etc/afas-software.png?raw=true" height="80" alt="AFAS" title="AFAS Software InSite Administration Beginners’ Course" />
+        <a href="#">
+          <img src="https://github.com/MrTieGuy06/MrTieGuy06/blob/main/etc/afas-software.png?raw=true" height="80" alt="AFAS" title="AFAS Software InSite Administration Beginners’ Course" />
+        </a>
       </td>
       <td align="center">
-        <img src="https://github.com/MrTieGuy06/MrTieGuy06/blob/main/etc/afas-software.png?raw=true" height="80" alt="AFAS" title="AFAS Software Workflow Administration Beginners’ Course" />
+        <a href="#">
+          <img src="https://github.com/MrTieGuy06/MrTieGuy06/blob/main/etc/afas-software.png?raw=true" height="80" alt="AFAS" title="AFAS Software Workflow Administration Beginners’ Course" />
+        </a>
       </td>
     </tr>
     <tr>
+      <td align="center">
+        VET - Application- and</br/>Media developer<br/>(Game Development)
+      </td>
       <td align="center">
         <a href="https://learn.microsoft.com/en-gb/users/wouterdelange-9785/credentials/ea069dd4489b9291">
           Microsoft Certified<br/>Azure Fundamentals<br/>(AZ-900)
