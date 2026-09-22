@@ -92,4 +92,9 @@
       </td>
     </tr>
   </table>
+
+</p>
+
+<p align="center">
+  <sub>A little learning is a dangerous thing; Drink deep, or taste not the Pierian spring<br />~ Alexander Pope</sub>
 </p>
