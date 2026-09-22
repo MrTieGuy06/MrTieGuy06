@@ -55,6 +55,11 @@
         </a>
       </td>
       <td align="center">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-gb/WouterdeLange-9785/3C970E475B19BCF6">
+          <img src="https://raw.githubusercontent.com/MrTieGuy06/MrTieGuy06/refs/heads/main/etc/github-foundations.svg" height="80" alt="GH-900" title="GitHub Foundations (GH-900)" />
+        </a>
+      </td>
+      <td align="center">
         <a href="#">
           <img src="https://github.com/MrTieGuy06/MrTieGuy06/blob/main/etc/afas-software.png?raw=true" height="80" alt="AFAS" title="AFAS Software InSite Administration Beginners’ Course" />
         </a>
@@ -72,6 +77,11 @@
       <td align="center">
         <a href="https://learn.microsoft.com/en-gb/users/wouterdelange-9785/credentials/ea069dd4489b9291">
           Microsoft Certified<br/>Azure Fundamentals<br/>(AZ-900)
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-gb/WouterdeLange-9785/3C970E475B19BCF6">
+          GitHub Foundations<br/>(GH-900)
         </a>
       </td>
       <td align="center">
